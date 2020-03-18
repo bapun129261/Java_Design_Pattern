@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="989eb534-c2c7-4820-b07d-d9668b7cf76d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZEybd5PK3YxQfhqquMXCiNIRGY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj8-Command_Design_Pattern" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pkg.pattern.engineering.paper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pkg.pattern.captain.case4" />
+      <recent name="com.pkg.pattern.captain.case3" />
+      <recent name="com.pkg.pattern.captain.case2" />
+      <recent name="com.pkg.pattern.extension.impl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AdapterPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pkg.pattern.AdapterPatternTest" />
+      <module name="proj1-Strategy_Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pkg.pattern.extension.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdapterPatternTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="989eb534-c2c7-4820-b07d-d9668b7cf76d" name="Default Changelist" comment="" />
+      <created>1584418620556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584418620556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1584443658655">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="561" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1584443658655" />
+    <state x="566" y="324" width="467" height="259" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584442565305">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="566" y="324" width="467" height="259" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.900@0.0.1600.900" timestamp="1584442565305" />
+    <state x="619" y="338" width="428" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584430439495">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="619" y="338" width="428" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.900@0.0.1600.900" timestamp="1584430439495" />
+    <state x="530" y="152" key="FileChooserDialogImpl" timestamp="1584449806030">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="530" y="152" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584449806030" />
+    <state width="1545" height="164" key="GridCell.Tab.0.bottom" timestamp="1584452142918">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="164" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584452142918" />
+    <state width="1545" height="164" key="GridCell.Tab.0.center" timestamp="1584452142918">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="164" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1584452142918" />
+    <state width="1545" height="164" key="GridCell.Tab.0.left" timestamp="1584452142918">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="164" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1584452142918" />
+    <state width="1545" height="164" key="GridCell.Tab.0.right" timestamp="1584452142918">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="164" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1584452142918" />
+    <state width="1545" height="276" key="GridCell.Tab.1.bottom" timestamp="1584424602379">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="276" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584424602379" />
+    <state width="1545" height="276" key="GridCell.Tab.1.center" timestamp="1584424602379">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="276" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1584424602379" />
+    <state width="1545" height="276" key="GridCell.Tab.1.left" timestamp="1584424602379">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="276" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1584424602379" />
+    <state width="1545" height="276" key="GridCell.Tab.1.right" timestamp="1584424602379">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="276" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1584424602379" />
+    <state x="372" y="0" width="840" height="898" key="search.everywhere.popup" timestamp="1584443249107">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="372" y="0" width="840" height="898" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1584443249107" />
+  </component>
+</project>
