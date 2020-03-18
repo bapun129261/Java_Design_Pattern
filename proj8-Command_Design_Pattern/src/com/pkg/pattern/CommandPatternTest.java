@@ -7,6 +7,8 @@ import com.pkg.pattern.command.impl.LightOnCommand;
 import com.pkg.pattern.command.impl.LightUpCommand;
 import com.pkg.pattern.receiver.LightBulb;
 
+
+
 public class CommandPatternTest {
     public static void main(String[] args) {
         RemoteInvoker remote = new RemoteInvoker(new LightOnCommand(new LightBulb()), new LightOffCommand(new LightBulb()), new LightUpCommand(new LightBulb()), new LightDownCommand(new LightBulb()));
@@ -17,6 +19,5 @@ public class CommandPatternTest {
         remote.lightDown();
         remote.lightOff();
         remote.lightUp();
-
     }
 }

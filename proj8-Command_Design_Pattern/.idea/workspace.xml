@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="989eb534-c2c7-4820-b07d-d9668b7cf76d" name="Default Changelist" comment="" />
+    <list default="true" id="989eb534-c2c7-4820-b07d-d9668b7cf76d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../proj9-Iterator_Design_Pattern/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj9-Iterator_Design_Pattern/src/com/pkg/pattern/iterator/Iiterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj9-Iterator_Design_Pattern/src/com/pkg/pattern/iterator/impl/ArtsIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pkg/pattern/CommandPatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pkg/pattern/CommandPatternTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +31,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZEybd5PK3YxQfhqquMXCiNIRGY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj9-Iterator_Design_Pattern" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1584418620556</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit by self">
+      <created>1584508463528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584508463528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit by self" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit by self" />
   </component>
   <component name="WindowStateProjectService">
     <state x="561" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1584450698789">
@@ -94,6 +114,14 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="619" y="338" width="428" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.900@0.0.1600.900" timestamp="1584430439495" />
+    <state x="181" y="0" key="CommitChangelistDialog2" timestamp="1584508462838">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="181" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1584508462838" />
+    <state x="530" y="152" key="FileChooserDialogImpl" timestamp="1584512480514">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="530" y="152" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1584512480514" />
     <state width="1545" height="210" key="GridCell.Tab.0.bottom" timestamp="1584507011879">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
