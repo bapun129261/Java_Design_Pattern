@@ -1,7 +1,7 @@
 package com.pkg.pattern;
 
 
-public class FacadePatternTest {
+public class FactoryPatternTest {
     public static void main(String[] args) {
 
 
