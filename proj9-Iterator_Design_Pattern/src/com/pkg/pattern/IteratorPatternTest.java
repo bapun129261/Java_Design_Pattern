@@ -4,6 +4,7 @@ import com.pkg.pattern.iterator.Iiterator;
 import com.pkg.pattern.streams.impl.Arts;
 import com.pkg.pattern.streams.impl.Science;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -34,8 +35,5 @@ public class IteratorPatternTest {
             System.out.println(scienceIterator.next());
             System.out.println("Science current item"+scienceIterator.currentItem());
         }
-
-
-
     }
 }
