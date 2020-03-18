@@ -17,7 +17,7 @@ public class Science<T> implements Istreams<T> {
     }
 
     @Override
-    public Iiterator getIterator() {
+    public Iiterator<T> getIterator() {
         return new ScienceIterator(subject);
     }
 }
