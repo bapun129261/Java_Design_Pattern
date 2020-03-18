@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="989eb534-c2c7-4820-b07d-d9668b7cf76d" name="Default Changelist" comment="" />
+    <list default="true" id="989eb534-c2c7-4820-b07d-d9668b7cf76d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/facade/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/facade/impl/HotelWaiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/hotel/impl/NonVegAndVegHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/hotel/impl/NonVegHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/hotel/impl/VegHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/menu/impl/NonVeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/menu/impl/Veg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/menu/impl/VegAndNonVeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/out/production/proj1-Strategy_Design_Pattern/com/pkg/pattern/FacadePatternTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/out/production/proj1-Strategy_Design_Pattern/com/pkg/pattern/FacadePatternTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/FacadePatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj10-Facede_Design_Pattern/src/com/pkg/pattern/FacadePatternTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +31,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZEybd5PK3YxQfhqquMXCiNIRGY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj2-Observer_Design_Pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RunManager">
