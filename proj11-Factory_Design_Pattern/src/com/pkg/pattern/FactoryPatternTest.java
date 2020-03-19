@@ -8,8 +8,8 @@ import com.pkg.pattern.type.Type;
 
 public class FactoryPatternTest {
     public static void main(String[] args) {
-        PizzaFactory pizzaStore=new DominosPizzaFactory();
-      Pizza pizza= pizzaStore.getPizza(Type.CHEESE);
+      Pizza pizza= new DominosPizzaFactory().getPizza(Type.CHEESE);
+        System.out.println(pizza.getClass().getName());
         System.out.println(pizza.getNameOfThePizza()+" : "+pizza.getPrice());
     }
 }
