@@ -1,7 +1,6 @@
 package com.pkg.pattern.facade.impl;
 
 import com.pkg.pattern.facade.Waiter;
-import com.pkg.pattern.hotel.Hotel;
 import com.pkg.pattern.hotel.impl.NonVegAndVegHotel;
 import com.pkg.pattern.hotel.impl.NonVegHotel;
 import com.pkg.pattern.hotel.impl.VegHotel;
