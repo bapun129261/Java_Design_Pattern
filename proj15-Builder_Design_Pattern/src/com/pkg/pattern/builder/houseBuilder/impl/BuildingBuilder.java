@@ -67,7 +67,7 @@ public class BuildingBuilder implements HouseBuilder {
             Thread.sleep(2000);
             addGarden();
             Thread.sleep(2000);
-        }catch (Exception e){}
+        }catch (Exception ignored){}
 
         System.out.println("Your House is Ready.....!");
         return house;

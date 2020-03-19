@@ -22,7 +22,7 @@ public class SwimmingPoolBuilder implements PoolBuilder {
             Thread.sleep(2000);
             putAllPoolElement();
             Thread.sleep(2000);
-        } catch (Exception e) {
+        } catch (Exception ignored) {
         }
 
         System.out.println("Your Swimming pool is Ready.....!");

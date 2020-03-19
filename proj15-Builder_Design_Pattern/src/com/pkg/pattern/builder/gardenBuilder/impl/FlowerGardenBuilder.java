@@ -30,7 +30,7 @@ public class FlowerGardenBuilder implements GardenBuilder {
             Thread.sleep(2000);
             putGardenItems();
             Thread.sleep(2000);
-        }catch (Exception e){}
+        }catch (Exception ignored){}
 
         System.out.println("Your Garden is Ready.....!");
         return garden;
