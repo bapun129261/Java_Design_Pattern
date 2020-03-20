@@ -14,6 +14,14 @@ public class MessageMediator extends Mediator {
     @Override
     public void notifyToPerson(Person sender, String msg) {
         senderName=sender.getNAME().toString();
+        for (Enum aPerson :PersonType.values()){
+            if (sender.getNAME().equals(aPerson)) {
+                communicate.get(PersonType.getPartner(aPerson)).receive(msg);
+            }
+        }
+
+/*
+
         if (sender.getNAME().equals(PersonType.STUDENT)) {
             communicate.get(PersonType.TEACHER).receive(msg);
         } else if (sender.getNAME().equals(PersonType.TEACHER)) {
@@ -22,7 +30,7 @@ public class MessageMediator extends Mediator {
             communicate.get(PersonType.TEACHER).receive(msg);
         } else {
             System.out.println("Invalid Receiver..!");
-        }
+        }*/
     }
 
     @Override
